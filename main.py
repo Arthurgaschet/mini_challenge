@@ -1,3 +1,6 @@
+source venv/bin/activate
+
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
