@@ -1,8 +1,4 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import streamlit as st
 
-# Charger le dataset
 df = pd.read_excel('top_100_dishes.xlsx')
 
 # Titre principal de l'application
